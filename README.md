@@ -11,3 +11,6 @@
 
 * User can enter an event, click save button and event will be saved in local storage.
 
+* link to deployed app: https://tari-star.github.io/scheduler-challenge-5/
+
+![challenge-5](assets/image/challenge-5.png)
